@@ -12,3 +12,10 @@ Repozitorijum u kome čuvam domaće zadatke, vežbe i projekte sa IT Bootcamp Da
 - Databricks, Delta Lake i Spark
 - dbt
 - Airflow
+
+## O kursu
+
+Tokom kursa očekujem da obradimo:
+- Git i GitHub
+- SQL i baze podataka
+- Python za Data Engineering
