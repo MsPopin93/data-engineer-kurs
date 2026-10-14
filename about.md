@@ -6,3 +6,5 @@
 - Python
 - Automatizacija
 - Učenje kroz projekte - Learn by doing
+- Machine Learning
+
