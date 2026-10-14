@@ -19,3 +19,4 @@ Tokom kursa očekujem da obradimo:
 - Git i GitHub
 - SQL i baze podataka
 - Python za Data Engineering
+- ETL procesi i automatizacija
